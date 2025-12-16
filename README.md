@@ -7,6 +7,12 @@ All calculations are executed in an automated Excel model with macros, and suppo
 # Project Objective
 To estimate the intrinsic value of JSW Steel (Ticker: JSTL) as of June 2025 using a structured DCF methodology, and to assess whether the company is overvalued or undervalued relative to its market price.
 
+# Included Files 
+[COmplete Excel Model]() <br>
+[WACC Calculation MOdel]() <br>
+[DCF Valuation Overview]()
+
+
 # Key Valuation Findings
 Intrinsic Value Estimate
 _Using the base-case assumptions:_
@@ -28,7 +34,7 @@ Operating drivers include:
 * Working capital modeled as a percentage of sales
 
 ### 2. Free Cash Flow to Firm (FCFF)
-Calculated As : _FCFF = EBIT × (1 – Tax Rate) + D&A – CapEx – ΔWorking Capital_
+Calculated As : _FCFF = EBIT × (1 – Tax Rate) + D&A – CapEx – ΔWorking Capital_ <br>
 Projected FCFF for 2026–2030 (Base Case):
 * 2026: ₹5,202.6 Cr
 * 2027: ₹7,732.2 Cr
@@ -65,7 +71,3 @@ The project demonstrates:
 * Cost of capital computation
 * Sensitivity and valuation diagnostics
 
-# Included Files 
-[COmplete Excel Model]() <br>
-[WACC Calculation MOdel]() <br>
-[DCF Valuation Overview]()
