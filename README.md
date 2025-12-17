@@ -8,9 +8,9 @@ All calculations are executed in an automated Excel model with macros, and suppo
 To estimate the intrinsic value of JSW Steel (Ticker: JSTL) as of June 2025 using a structured DCF methodology, and to assess whether the company is overvalued or undervalued relative to its market price.
 
 # Included Files 
-[COmplete Excel Model]() <br>
-[WACC Calculation MOdel]() <br>
-[DCF Valuation Overview]()
+[Complete Excel Model](JSW_steel_DCF_valuation_june2025.xlsm) <br>
+[WACC Calculation Sheet](JSW_steel_WACC_june2025.pdf) <br>
+[DCF Valuation Overview](JSW_steel_DCF_june2025.pdf)
 
 
 # Key Valuation Findings
